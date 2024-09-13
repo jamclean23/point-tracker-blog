@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --point-color: #ff002f;
+  --tracker-color: lightgray;
+  --error-color: #ee002c;
+}
